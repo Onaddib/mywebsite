@@ -1,0 +1,17 @@
+C:\Users\Onatt\Desktop\MyWebSite\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\Onatt\Desktop\MyWebSite\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\Onatt\Desktop\MyWebSite\Data\bin\Debug\net6.0\Data.dll
+C:\Users\Onatt\Desktop\MyWebSite\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\Onatt\Desktop\MyWebSite\Data\bin\Debug\net6.0\Models.dll
+C:\Users\Onatt\Desktop\MyWebSite\Data\bin\Debug\net6.0\Models.pdb
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\Data.dll
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\Onatt\Desktop\MyWebSite\Data\obj\Debug\net6.0\ref\Data.dll

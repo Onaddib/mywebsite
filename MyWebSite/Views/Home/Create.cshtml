@@ -1,0 +1,39 @@
+﻿@using Models.Models
+@model Blog
+@{
+	ViewBag.Title = "Create";
+    ViewData["Title"] = "AddBlog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*
+<div class="mb-3">
+    <label for="exampleFormControlInput1" class="form-label">Email address</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+</div>
+<div class="mb-3">
+    <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+</div>
+*@
+	<form method="post" enctype="multipart/form-data"> 
+		<div class="form-floating py-2">
+			<input asp-for="ID" type="text" class="form-control" />
+			<label asp-for="ID" class="form-label"></label>
+		</div>
+		<div class="form-floating py-2">
+			<input asp-for="Title" type="text" class="form-control" />
+			<label asp-for="Title" class="form-label"></label>
+		</div>
+		<div class="form-floating py-2">
+			<input asp-for="Content" type="text" class="form-control" />
+			<label asp-for="Content" class="form-label"></label>
+		</div>
+
+		
+
+		<div class="py-2">
+			<button type="submit" class="btn btn-primary form-control">Create</button>
+		</div>
+
+</form>
